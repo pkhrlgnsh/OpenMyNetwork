@@ -1,4 +1,3 @@
-<!-- This codes need to be added in functons.php file -->
 <?php
 /*
 Plugin Name: Article Custom Post Type
